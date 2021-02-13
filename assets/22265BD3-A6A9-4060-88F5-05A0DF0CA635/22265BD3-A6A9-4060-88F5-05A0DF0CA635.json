@@ -1,0 +1,599 @@
+{
+	"assets": {
+		"573C66000A387F1BB927995D5476EDB7": {
+			"type": "texture",
+			"index": 1,
+			"assetRequest": { "type": "slide", "state": "contents", "slide": "none" },
+			"url": { "native": "assets/22265BD3-A6A9-4060-88F5-05A0DF0CA635.pdf" },
+			"width": 1024,
+			"height": 768
+		},
+		"7839C932AD242F4E8E0D08BC62CD9CDE": {
+			"type": "texture",
+			"index": 0,
+			"assetRequest": { "type": "slide", "state": "contents", "slide": "none" },
+			"url": { "native": "assets/22265BD3-A6A9-4060-88F5-05A0DF0CA635.pdf" },
+			"width": 1024,
+			"height": 768
+		}
+	},
+	"events": [
+		{
+			"effects": [
+				{
+					"beginTime": 0,
+					"baseLayer": {
+						"animations": [],
+						"initialState": {
+							"affineTransform": [1, 0, 0, 1, 0, 0],
+							"masksToBounds": false,
+							"rotation": 0,
+							"scale": 1,
+							"position": { "pointX": 512, "pointY": 384 },
+							"width": 1024,
+							"sublayerTransform": [
+								1,
+								0,
+								0,
+								0,
+								0,
+								1,
+								0,
+								0,
+								0,
+								0,
+								1,
+								0,
+								0,
+								0,
+								0,
+								1
+							],
+							"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+							"opacity": 1,
+							"edgeAntialiasingMask": 251658240,
+							"height": 768,
+							"hidden": false,
+							"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+						},
+						"objectID": "0",
+						"layers": [
+							{
+								"animations": [],
+								"initialState": {
+									"affineTransform": [1, 0, 0, 1, 0, 0],
+									"masksToBounds": false,
+									"rotation": 0,
+									"scale": 1,
+									"position": { "pointX": 512, "pointY": 384 },
+									"width": 1024,
+									"sublayerTransform": [
+										1,
+										0,
+										0,
+										0,
+										0,
+										1,
+										0,
+										0,
+										0,
+										0,
+										1,
+										-0.00049229876906403734,
+										0,
+										0,
+										0,
+										1
+									],
+									"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+									"opacity": 1,
+									"edgeAntialiasingMask": 251658240,
+									"height": 768,
+									"hidden": false,
+									"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+								},
+								"layers": [
+									{
+										"animations": [],
+										"layers": [],
+										"texturedRectangle": {
+											"isBackgroundTexture": false,
+											"singleTextureOpacity": 1,
+											"textureType": 0,
+											"textBaseline": 0,
+											"textXHeight": 0,
+											"isVerticalText": false
+										},
+										"initialState": {
+											"affineTransform": [1, 0, 0, 1, 0, 0],
+											"masksToBounds": false,
+											"rotation": 0,
+											"scale": 1,
+											"position": { "pointX": 512, "pointY": 384 },
+											"width": 1024,
+											"sublayerTransform": [
+												1,
+												0,
+												0,
+												0,
+												0,
+												1,
+												0,
+												0,
+												0,
+												0,
+												1,
+												0,
+												0,
+												0,
+												0,
+												1
+											],
+											"contentsRect": {
+												"y": 0,
+												"x": 0,
+												"width": 1,
+												"height": 1
+											},
+											"opacity": 1,
+											"edgeAntialiasingMask": 0,
+											"height": 768,
+											"hidden": false,
+											"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+										},
+										"texture": "573C66000A387F1BB927995D5476EDB7"
+									},
+									{
+										"animations": [
+											{
+												"timeOffset": 0,
+												"from": { "scalar": false },
+												"beginTime": 0,
+												"repeatCount": 0,
+												"fillMode": "both",
+												"property": "hidden",
+												"autoreverses": false,
+												"duration": 0.01,
+												"to": { "scalar": true }
+											}
+										],
+										"layers": [],
+										"texturedRectangle": {
+											"isBackgroundTexture": false,
+											"singleTextureOpacity": 1,
+											"textureType": 0,
+											"textBaseline": 0,
+											"textXHeight": 0,
+											"isVerticalText": false
+										},
+										"initialState": {
+											"affineTransform": [1, 0, 0, 1, 0, 0],
+											"masksToBounds": false,
+											"rotation": 0,
+											"scale": 1,
+											"position": { "pointX": 512, "pointY": 384 },
+											"width": 1024,
+											"sublayerTransform": [
+												1,
+												0,
+												0,
+												0,
+												0,
+												1,
+												0,
+												0,
+												0,
+												0,
+												1,
+												0,
+												0,
+												0,
+												0,
+												1
+											],
+											"contentsRect": {
+												"y": 0,
+												"x": 0,
+												"width": 1,
+												"height": 1
+											},
+											"opacity": 1,
+											"edgeAntialiasingMask": 0,
+											"height": 768,
+											"hidden": false,
+											"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+										},
+										"texture": "7839C932AD242F4E8E0D08BC62CD9CDE"
+									}
+								]
+							}
+						]
+					},
+					"effects": [],
+					"duration": 0.01,
+					"type": "transition",
+					"attributes": { "direction": 0 },
+					"name": "none",
+					"objectID": "0"
+				}
+			],
+			"automaticPlay": false,
+			"hyperlinks": [],
+			"accessibility": [
+				{
+					"text": "Transaction  T4",
+					"targetRectangle": {
+						"y": 498.43559200586969,
+						"x": 341.56486307573317,
+						"width": 93.646000166892975,
+						"height": 23.727599230444412
+					}
+				},
+				{
+					"text": "Block b",
+					"targetRectangle": {
+						"y": 602.0799558097533,
+						"x": 88.897728057861343,
+						"width": 59.95799999999997,
+						"height": 26.909999012947083
+					}
+				},
+				{
+					"text": "References : [E1] Ch.2, Ch.4",
+					"targetRectangle": {
+						"y": 725.29937601089478,
+						"x": 800.00179052352905,
+						"width": 178.978515625,
+						"height": 18.642138004885055
+					}
+				},
+				{
+					"text": "Transaction  C",
+					"targetRectangle": {
+						"y": 315.6761469447556,
+						"x": 861.7002078857422,
+						"width": 88.731999999999971,
+						"height": 21.059999227523804
+					}
+				},
+				{
+					"text": "fast",
+					"targetRectangle": {
+						"y": 364.3428033592478,
+						"x": 660.25989471435548,
+						"width": 33.779999999999973,
+						"height": 29.249998927116394
+					}
+				},
+				{
+					"text": "Transaction  B",
+					"targetRectangle": {
+						"y": 315.6761469447556,
+						"x": 378.48112121582028,
+						"width": 89.180000000000064,
+						"height": 21.059999227523804
+					}
+				},
+				{
+					"text": "Transaction  E",
+					"targetRectangle": {
+						"y": 285.4301752650681,
+						"x": 861.96620788574216,
+						"width": 88.200000000000045,
+						"height": 21.059999227523804
+					}
+				},
+				{
+					"text": "Block b+1",
+					"targetRectangle": {
+						"y": 602.0799558097533,
+						"x": 341.56323937988282,
+						"width": 81.557999999999993,
+						"height": 26.909999012947083
+					}
+				},
+				{
+					"text": "Transaction  A",
+					"targetRectangle": {
+						"y": 285.4301752650681,
+						"x": 378.56512121582028,
+						"width": 89.012,
+						"height": 21.059999227523804
+					}
+				},
+				{
+					"text": "Winner",
+					"targetRectangle": {
+						"y": 99.816390746276738,
+						"x": 554.27945544433589,
+						"width": 61.506000000000085,
+						"height": 26.909999012947083
+					}
+				},
+				{
+					"text": "Transaction  A",
+					"targetRectangle": {
+						"y": 255.2016596400681,
+						"x": 861.56020788574222,
+						"width": 89.011999999999944,
+						"height": 21.059999227523804
+					}
+				},
+				{
+					"text": "Transaction  C",
+					"targetRectangle": {
+						"y": 255.2016596400681,
+						"x": 378.70512121582033,
+						"width": 88.731999999999971,
+						"height": 21.059999227523804
+					}
+				},
+				{
+					"text": "(Block b+2)",
+					"targetRectangle": {
+						"y": 216.42744421307361,
+						"x": 858.30255700683597,
+						"width": 93.617999999999938,
+						"height": 26.909999012947083
+					}
+				},
+				{
+					"text": "(Block b+2)",
+					"targetRectangle": {
+						"y": 216.42744421307361,
+						"x": 375.30743981933597,
+						"width": 93.617999999999938,
+						"height": 26.909999012947083
+					}
+				},
+				{
+					"text": "Transaction  T6",
+					"targetRectangle": {
+						"y": 558.91004879297907,
+						"x": 341.56486307573317,
+						"width": 93.646000166892975,
+						"height": 23.727599230444412
+					}
+				},
+				{
+					"text": "miner ",
+					"targetRectangle": {
+						"y": 128.6055905753783,
+						"x": 803.07958728027347,
+						"width": 51.173999999999978,
+						"height": 26.909999012947083
+					}
+				},
+				{
+					"text": "selected by PoW",
+					"targetRectangle": {
+						"y": 408.25375306627905,
+						"x": 815.34608551025394,
+						"width": 148.07999999999993,
+						"height": 29.249998927116394
+					}
+				},
+				{
+					"text": "Transaction  A",
+					"targetRectangle": {
+						"y": 315.6761469447556,
+						"x": 621.98434118652347,
+						"width": 89.011999999999944,
+						"height": 21.059999227523804
+					}
+				},
+				{
+					"text": "Transaction  T5",
+					"targetRectangle": {
+						"y": 528.66407711329157,
+						"x": 341.56486307573317,
+						"width": 93.646000166892975,
+						"height": 23.727599230444412
+					}
+				},
+				{
+					"text": "Transaction  T3",
+					"targetRectangle": {
+						"y": 558.91004879297907,
+						"x": 78.099347939014422,
+						"width": 93.646000166893003,
+						"height": 23.727599230444412
+					}
+				},
+				{
+					"text": "miner ",
+					"targetRectangle": {
+						"y": 128.6055905753783,
+						"x": 561.56945544433597,
+						"width": 51.173999999999978,
+						"height": 26.909999012947083
+					}
+				},
+				{
+					"text": "Transaction  D",
+					"targetRectangle": {
+						"y": 285.4301752650681,
+						"x": 621.77434118652343,
+						"width": 89.432000000000016,
+						"height": 21.059999227523804
+					}
+				},
+				{
+					"text": "Transaction  T2",
+					"targetRectangle": {
+						"y": 528.66407711329157,
+						"x": 78.099347939014422,
+						"width": 93.646000166893003,
+						"height": 23.727599230444412
+					}
+				},
+				{
+					"text": "Transaction  T1",
+					"targetRectangle": {
+						"y": 498.43559200586969,
+						"x": 78.099347939014422,
+						"width": 93.646000166893003,
+						"height": 23.727599230444412
+					}
+				},
+				{
+					"text": "Ordering Interblocks",
+					"targetRectangle": {
+						"y": 18.610253810882568,
+						"x": 376.08024871826171,
+						"width": 287.49000000000001,
+						"height": 45.629998326301575
+					}
+				},
+				{
+					"text": "miner ",
+					"targetRectangle": {
+						"y": 128.6055905753783,
+						"x": 303.5132115478516,
+						"width": 51.173999999999978,
+						"height": 26.909999012947083
+					}
+				},
+				{
+					"text": "Transaction  B",
+					"targetRectangle": {
+						"y": 256.43066425050438,
+						"x": 621.61924743652344,
+						"width": 89.7421875,
+						"height": 18.642138004885055
+					}
+				},
+				{
+					"text": "(Block b+2)",
+					"targetRectangle": {
+						"y": 216.42744421307361,
+						"x": 618.72669030761722,
+						"width": 93.617999999999938,
+						"height": 26.909999012947083
+					}
+				},
+				{
+					"text": "The order between blocks is determined by a consensus algorithm such as PoW. ",
+					"targetRectangle": {
+						"y": 650.07421731948853,
+						"x": 99.099936008453369,
+						"width": 787.31400000000019,
+						"height": 45.040589272975922
+					}
+				},
+				{
+					"text": "Ethash is the PoW implementation for Ethereum. Clique and Aura or examples of non PoW",
+					"targetRectangle": {
+						"y": 695.11480659246445,
+						"x": 99.099936008453369,
+						"width": 839.07999999999993,
+						"height": 55.970000207424164
+					}
+				}
+			],
+			"baseLayer": {
+				"animations": [],
+				"initialState": {
+					"affineTransform": [1, 0, 0, 1, 0, 0],
+					"masksToBounds": false,
+					"rotation": 0,
+					"scale": 1,
+					"position": { "pointX": 512, "pointY": 384 },
+					"width": 1024,
+					"sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+					"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+					"opacity": 1,
+					"edgeAntialiasingMask": 251658240,
+					"height": 768,
+					"hidden": false,
+					"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+				},
+				"objectID": "0",
+				"layers": [
+					{
+						"animations": [],
+						"initialState": {
+							"affineTransform": [1, 0, 0, 1, 0, 0],
+							"masksToBounds": false,
+							"rotation": 0,
+							"scale": 1,
+							"position": { "pointX": 512, "pointY": 384 },
+							"width": 1024,
+							"sublayerTransform": [
+								1,
+								0,
+								0,
+								0,
+								0,
+								1,
+								0,
+								0,
+								0,
+								0,
+								1,
+								-0.00049229876906403734,
+								0,
+								0,
+								0,
+								1
+							],
+							"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+							"opacity": 1,
+							"edgeAntialiasingMask": 251658240,
+							"height": 768,
+							"hidden": false,
+							"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+						},
+						"layers": [
+							{
+								"animations": [],
+								"layers": [],
+								"texturedRectangle": {
+									"isBackgroundTexture": false,
+									"singleTextureOpacity": 1,
+									"textureType": 0,
+									"textBaseline": 0,
+									"textXHeight": 0,
+									"isVerticalText": false
+								},
+								"initialState": {
+									"affineTransform": [1, 0, 0, 1, 0, 0],
+									"masksToBounds": false,
+									"rotation": 0,
+									"scale": 1,
+									"position": { "pointX": 512, "pointY": 384 },
+									"width": 1024,
+									"sublayerTransform": [
+										1,
+										0,
+										0,
+										0,
+										0,
+										1,
+										0,
+										0,
+										0,
+										0,
+										1,
+										0,
+										0,
+										0,
+										0,
+										1
+									],
+									"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+									"opacity": 1,
+									"edgeAntialiasingMask": 0,
+									"height": 768,
+									"hidden": false,
+									"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+								},
+								"texture": "7839C932AD242F4E8E0D08BC62CD9CDE"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

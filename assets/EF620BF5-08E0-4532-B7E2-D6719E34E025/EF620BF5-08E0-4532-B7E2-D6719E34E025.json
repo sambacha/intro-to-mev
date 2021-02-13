@@ -1,0 +1,375 @@
+{
+	"assets": {
+		"E31E70D5AACCDD8AD16D8203C6C91F86": {
+			"type": "texture",
+			"index": 1,
+			"assetRequest": { "type": "slide", "state": "contents", "slide": "none" },
+			"url": { "native": "assets/EF620BF5-08E0-4532-B7E2-D6719E34E025.pdf" },
+			"width": 1024,
+			"height": 768
+		},
+		"FD1D35C9319F1F9BA22FAC977577F991": {
+			"type": "texture",
+			"index": 0,
+			"assetRequest": { "type": "slide", "state": "contents", "slide": "none" },
+			"url": { "native": "assets/EF620BF5-08E0-4532-B7E2-D6719E34E025.pdf" },
+			"width": 1024,
+			"height": 768
+		}
+	},
+	"events": [
+		{
+			"effects": [
+				{
+					"beginTime": 0,
+					"baseLayer": {
+						"animations": [],
+						"initialState": {
+							"affineTransform": [1, 0, 0, 1, 0, 0],
+							"masksToBounds": false,
+							"rotation": 0,
+							"scale": 1,
+							"position": { "pointX": 512, "pointY": 384 },
+							"width": 1024,
+							"sublayerTransform": [
+								1,
+								0,
+								0,
+								0,
+								0,
+								1,
+								0,
+								0,
+								0,
+								0,
+								1,
+								0,
+								0,
+								0,
+								0,
+								1
+							],
+							"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+							"opacity": 1,
+							"edgeAntialiasingMask": 251658240,
+							"height": 768,
+							"hidden": false,
+							"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+						},
+						"objectID": "0",
+						"layers": [
+							{
+								"animations": [],
+								"initialState": {
+									"affineTransform": [1, 0, 0, 1, 0, 0],
+									"masksToBounds": false,
+									"rotation": 0,
+									"scale": 1,
+									"position": { "pointX": 512, "pointY": 384 },
+									"width": 1024,
+									"sublayerTransform": [
+										1,
+										0,
+										0,
+										0,
+										0,
+										1,
+										0,
+										0,
+										0,
+										0,
+										1,
+										-0.00049229876906403734,
+										0,
+										0,
+										0,
+										1
+									],
+									"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+									"opacity": 1,
+									"edgeAntialiasingMask": 251658240,
+									"height": 768,
+									"hidden": false,
+									"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+								},
+								"layers": [
+									{
+										"animations": [],
+										"layers": [],
+										"texturedRectangle": {
+											"isBackgroundTexture": false,
+											"singleTextureOpacity": 1,
+											"textureType": 0,
+											"textBaseline": 0,
+											"textXHeight": 0,
+											"isVerticalText": false
+										},
+										"initialState": {
+											"affineTransform": [1, 0, 0, 1, 0, 0],
+											"masksToBounds": false,
+											"rotation": 0,
+											"scale": 1,
+											"position": { "pointX": 512, "pointY": 384 },
+											"width": 1024,
+											"sublayerTransform": [
+												1,
+												0,
+												0,
+												0,
+												0,
+												1,
+												0,
+												0,
+												0,
+												0,
+												1,
+												0,
+												0,
+												0,
+												0,
+												1
+											],
+											"contentsRect": {
+												"y": 0,
+												"x": 0,
+												"width": 1,
+												"height": 1
+											},
+											"opacity": 1,
+											"edgeAntialiasingMask": 0,
+											"height": 768,
+											"hidden": false,
+											"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+										},
+										"texture": "E31E70D5AACCDD8AD16D8203C6C91F86"
+									},
+									{
+										"animations": [
+											{
+												"timeOffset": 0,
+												"from": { "scalar": false },
+												"beginTime": 0,
+												"repeatCount": 0,
+												"fillMode": "both",
+												"property": "hidden",
+												"autoreverses": false,
+												"duration": 0.01,
+												"to": { "scalar": true }
+											}
+										],
+										"layers": [],
+										"texturedRectangle": {
+											"isBackgroundTexture": false,
+											"singleTextureOpacity": 1,
+											"textureType": 0,
+											"textBaseline": 0,
+											"textXHeight": 0,
+											"isVerticalText": false
+										},
+										"initialState": {
+											"affineTransform": [1, 0, 0, 1, 0, 0],
+											"masksToBounds": false,
+											"rotation": 0,
+											"scale": 1,
+											"position": { "pointX": 512, "pointY": 384 },
+											"width": 1024,
+											"sublayerTransform": [
+												1,
+												0,
+												0,
+												0,
+												0,
+												1,
+												0,
+												0,
+												0,
+												0,
+												1,
+												0,
+												0,
+												0,
+												0,
+												1
+											],
+											"contentsRect": {
+												"y": 0,
+												"x": 0,
+												"width": 1,
+												"height": 1
+											},
+											"opacity": 1,
+											"edgeAntialiasingMask": 0,
+											"height": 768,
+											"hidden": false,
+											"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+										},
+										"texture": "FD1D35C9319F1F9BA22FAC977577F991"
+									}
+								]
+							}
+						]
+					},
+					"effects": [],
+					"duration": 0.01,
+					"type": "transition",
+					"attributes": { "direction": 0 },
+					"name": "none",
+					"objectID": "0"
+				}
+			],
+			"automaticPlay": false,
+			"hyperlinks": [
+				{
+					"url": "https://github.com/takenobu-hs/ethereum-evm-illustrated",
+					"targetRectangle": {
+						"y": 296.01304841041565,
+						"x": 34.369558334350586,
+						"width": 507.89199999999983,
+						"height": 29
+					}
+				}
+			],
+			"accessibility": [
+				{
+					"text": "Acknowledgements",
+					"targetRectangle": {
+						"y": 12.526905119419098,
+						"x": 407.96072626113892,
+						"width": 271.55999999999995,
+						"height": 45.629998326301575
+					}
+				},
+				{
+					"text": "Slides based from: ",
+					"targetRectangle": {
+						"y": 211.81304979324341,
+						"x": 34.369558334350586,
+						"width": 188.49599999999998,
+						"height": 29
+					}
+				},
+				{
+					"text": "Takenobu Tani 2018:\\u2028github.com/takenobu-hs/ethereum-evm-illustrated,\\u2028BSD 3-Clause License",
+					"targetRectangle": {
+						"y": 237.91304910182953,
+						"x": 34.369558334350586,
+						"width": 520.87599999999986,
+						"height": 113.19999861717224
+					}
+				},
+				{
+					"text": "Reference Documents",
+					"targetRectangle": {
+						"y": 348.21304702758789,
+						"x": 34.369558334350586,
+						"width": 218.548,
+						"height": 61
+					}
+				}
+			],
+			"baseLayer": {
+				"animations": [],
+				"initialState": {
+					"affineTransform": [1, 0, 0, 1, 0, 0],
+					"masksToBounds": false,
+					"rotation": 0,
+					"scale": 1,
+					"position": { "pointX": 512, "pointY": 384 },
+					"width": 1024,
+					"sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+					"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+					"opacity": 1,
+					"edgeAntialiasingMask": 251658240,
+					"height": 768,
+					"hidden": false,
+					"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+				},
+				"objectID": "0",
+				"layers": [
+					{
+						"animations": [],
+						"initialState": {
+							"affineTransform": [1, 0, 0, 1, 0, 0],
+							"masksToBounds": false,
+							"rotation": 0,
+							"scale": 1,
+							"position": { "pointX": 512, "pointY": 384 },
+							"width": 1024,
+							"sublayerTransform": [
+								1,
+								0,
+								0,
+								0,
+								0,
+								1,
+								0,
+								0,
+								0,
+								0,
+								1,
+								-0.00049229876906403734,
+								0,
+								0,
+								0,
+								1
+							],
+							"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+							"opacity": 1,
+							"edgeAntialiasingMask": 251658240,
+							"height": 768,
+							"hidden": false,
+							"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+						},
+						"layers": [
+							{
+								"animations": [],
+								"layers": [],
+								"texturedRectangle": {
+									"isBackgroundTexture": false,
+									"singleTextureOpacity": 1,
+									"textureType": 0,
+									"textBaseline": 0,
+									"textXHeight": 0,
+									"isVerticalText": false
+								},
+								"initialState": {
+									"affineTransform": [1, 0, 0, 1, 0, 0],
+									"masksToBounds": false,
+									"rotation": 0,
+									"scale": 1,
+									"position": { "pointX": 512, "pointY": 384 },
+									"width": 1024,
+									"sublayerTransform": [
+										1,
+										0,
+										0,
+										0,
+										0,
+										1,
+										0,
+										0,
+										0,
+										0,
+										1,
+										0,
+										0,
+										0,
+										0,
+										1
+									],
+									"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+									"opacity": 1,
+									"edgeAntialiasingMask": 0,
+									"height": 768,
+									"hidden": false,
+									"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+								},
+								"texture": "FD1D35C9319F1F9BA22FAC977577F991"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

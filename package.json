@@ -1,0 +1,20 @@
+{
+  "name": "intro-to-mev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/intro-to-mev.git"
+  },
+  "keywords": ["ethereum", "mev", "cryptocurrency", "trading"],
+  "author": "",
+  "license": "BSD-3",
+  "bugs": {
+    "url": "https://github.com/sambacha/intro-to-mev/issues"
+  },
+  "homepage": "https://github.com/sambacha/intro-to-mev#readme"
+}

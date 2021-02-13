@@ -1,0 +1,366 @@
+{
+	"assets": {
+		"B02943E7811D8D58F30510D69B5FF24B": {
+			"type": "texture",
+			"index": 1,
+			"assetRequest": { "type": "slide", "state": "contents", "slide": "none" },
+			"url": { "native": "assets/61F25A5A-C253-49FA-9288-0F631542B15E.pdf" },
+			"width": 1024,
+			"height": 768
+		},
+		"3CA961C772B47F75BBD2011AE3E7DFE8": {
+			"type": "texture",
+			"index": 0,
+			"assetRequest": { "type": "slide", "state": "contents", "slide": "none" },
+			"url": { "native": "assets/61F25A5A-C253-49FA-9288-0F631542B15E.pdf" },
+			"width": 1024,
+			"height": 768
+		}
+	},
+	"events": [
+		{
+			"effects": [
+				{
+					"beginTime": 0,
+					"baseLayer": {
+						"animations": [],
+						"initialState": {
+							"affineTransform": [1, 0, 0, 1, 0, 0],
+							"masksToBounds": false,
+							"rotation": 0,
+							"scale": 1,
+							"position": { "pointX": 512, "pointY": 384 },
+							"width": 1024,
+							"sublayerTransform": [
+								1,
+								0,
+								0,
+								0,
+								0,
+								1,
+								0,
+								0,
+								0,
+								0,
+								1,
+								0,
+								0,
+								0,
+								0,
+								1
+							],
+							"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+							"opacity": 1,
+							"edgeAntialiasingMask": 251658240,
+							"height": 768,
+							"hidden": false,
+							"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+						},
+						"objectID": "0",
+						"layers": [
+							{
+								"animations": [],
+								"initialState": {
+									"affineTransform": [1, 0, 0, 1, 0, 0],
+									"masksToBounds": false,
+									"rotation": 0,
+									"scale": 1,
+									"position": { "pointX": 512, "pointY": 384 },
+									"width": 1024,
+									"sublayerTransform": [
+										1,
+										0,
+										0,
+										0,
+										0,
+										1,
+										0,
+										0,
+										0,
+										0,
+										1,
+										-0.00049229876906403734,
+										0,
+										0,
+										0,
+										1
+									],
+									"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+									"opacity": 1,
+									"edgeAntialiasingMask": 251658240,
+									"height": 768,
+									"hidden": false,
+									"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+								},
+								"layers": [
+									{
+										"animations": [],
+										"layers": [],
+										"texturedRectangle": {
+											"isBackgroundTexture": false,
+											"singleTextureOpacity": 1,
+											"textureType": 0,
+											"textBaseline": 0,
+											"textXHeight": 0,
+											"isVerticalText": false
+										},
+										"initialState": {
+											"affineTransform": [1, 0, 0, 1, 0, 0],
+											"masksToBounds": false,
+											"rotation": 0,
+											"scale": 1,
+											"position": { "pointX": 512, "pointY": 384 },
+											"width": 1024,
+											"sublayerTransform": [
+												1,
+												0,
+												0,
+												0,
+												0,
+												1,
+												0,
+												0,
+												0,
+												0,
+												1,
+												0,
+												0,
+												0,
+												0,
+												1
+											],
+											"contentsRect": {
+												"y": 0,
+												"x": 0,
+												"width": 1,
+												"height": 1
+											},
+											"opacity": 1,
+											"edgeAntialiasingMask": 0,
+											"height": 768,
+											"hidden": false,
+											"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+										},
+										"texture": "B02943E7811D8D58F30510D69B5FF24B"
+									},
+									{
+										"animations": [
+											{
+												"timeOffset": 0,
+												"from": { "scalar": false },
+												"beginTime": 0,
+												"repeatCount": 0,
+												"fillMode": "both",
+												"property": "hidden",
+												"autoreverses": false,
+												"duration": 0.01,
+												"to": { "scalar": true }
+											}
+										],
+										"layers": [],
+										"texturedRectangle": {
+											"isBackgroundTexture": false,
+											"singleTextureOpacity": 1,
+											"textureType": 0,
+											"textBaseline": 0,
+											"textXHeight": 0,
+											"isVerticalText": false
+										},
+										"initialState": {
+											"affineTransform": [1, 0, 0, 1, 0, 0],
+											"masksToBounds": false,
+											"rotation": 0,
+											"scale": 1,
+											"position": { "pointX": 512, "pointY": 384 },
+											"width": 1024,
+											"sublayerTransform": [
+												1,
+												0,
+												0,
+												0,
+												0,
+												1,
+												0,
+												0,
+												0,
+												0,
+												1,
+												0,
+												0,
+												0,
+												0,
+												1
+											],
+											"contentsRect": {
+												"y": 0,
+												"x": 0,
+												"width": 1,
+												"height": 1
+											},
+											"opacity": 1,
+											"edgeAntialiasingMask": 0,
+											"height": 768,
+											"hidden": false,
+											"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+										},
+										"texture": "3CA961C772B47F75BBD2011AE3E7DFE8"
+									}
+								]
+							}
+						]
+					},
+					"effects": [],
+					"duration": 0.01,
+					"type": "transition",
+					"attributes": { "direction": 0 },
+					"name": "none",
+					"objectID": "0"
+				}
+			],
+			"automaticPlay": false,
+			"hyperlinks": [
+				{
+					"url": "http://manifoldfinance.com",
+					"targetRectangle": {
+						"y": 695.58099412918091,
+						"x": 380.98358154296875,
+						"width": 131.76800000000003,
+						"height": 18
+					}
+				}
+			],
+			"accessibility": [
+				{
+					"text": "Copyright 2021 - Commodity Stream LLC All Rights Reserved",
+					"targetRectangle": {
+						"y": 734.72778367996216,
+						"x": 320.95999145507812,
+						"width": 381.0799999999997,
+						"height": 18
+					}
+				},
+				{
+					"text": "CC-SA-4.0 / BSD-3",
+					"targetRectangle": {
+						"y": 695.58099412918091,
+						"x": 521.5914306640625,
+						"width": 118.09000000000003,
+						"height": 18
+					}
+				},
+				{
+					"text": "manifoldfinance.com",
+					"targetRectangle": {
+						"y": 695.58099412918091,
+						"x": 380.98358154296875,
+						"width": 131.76800000000003,
+						"height": 18
+					}
+				}
+			],
+			"baseLayer": {
+				"animations": [],
+				"initialState": {
+					"affineTransform": [1, 0, 0, 1, 0, 0],
+					"masksToBounds": false,
+					"rotation": 0,
+					"scale": 1,
+					"position": { "pointX": 512, "pointY": 384 },
+					"width": 1024,
+					"sublayerTransform": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1],
+					"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+					"opacity": 1,
+					"edgeAntialiasingMask": 251658240,
+					"height": 768,
+					"hidden": false,
+					"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+				},
+				"objectID": "0",
+				"layers": [
+					{
+						"animations": [],
+						"initialState": {
+							"affineTransform": [1, 0, 0, 1, 0, 0],
+							"masksToBounds": false,
+							"rotation": 0,
+							"scale": 1,
+							"position": { "pointX": 512, "pointY": 384 },
+							"width": 1024,
+							"sublayerTransform": [
+								1,
+								0,
+								0,
+								0,
+								0,
+								1,
+								0,
+								0,
+								0,
+								0,
+								1,
+								-0.00049229876906403734,
+								0,
+								0,
+								0,
+								1
+							],
+							"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+							"opacity": 1,
+							"edgeAntialiasingMask": 251658240,
+							"height": 768,
+							"hidden": false,
+							"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+						},
+						"layers": [
+							{
+								"animations": [],
+								"layers": [],
+								"texturedRectangle": {
+									"isBackgroundTexture": false,
+									"singleTextureOpacity": 1,
+									"textureType": 0,
+									"textBaseline": 0,
+									"textXHeight": 0,
+									"isVerticalText": false
+								},
+								"initialState": {
+									"affineTransform": [1, 0, 0, 1, 0, 0],
+									"masksToBounds": false,
+									"rotation": 0,
+									"scale": 1,
+									"position": { "pointX": 512, "pointY": 384 },
+									"width": 1024,
+									"sublayerTransform": [
+										1,
+										0,
+										0,
+										0,
+										0,
+										1,
+										0,
+										0,
+										0,
+										0,
+										1,
+										0,
+										0,
+										0,
+										0,
+										1
+									],
+									"contentsRect": { "y": 0, "x": 0, "width": 1, "height": 1 },
+									"opacity": 1,
+									"edgeAntialiasingMask": 0,
+									"height": 768,
+									"hidden": false,
+									"anchorPoint": { "pointX": 0.5, "pointY": 0.5 }
+								},
+								"texture": "3CA961C772B47F75BBD2011AE3E7DFE8"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}
