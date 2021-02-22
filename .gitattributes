@@ -1,0 +1,7 @@
+# git archive -- ignore files when creating an archive out of repository
+assets/ export-ignore
+/.github export-ignore
+
+
+*.png diff=exif
+date*.txt filter=dater
